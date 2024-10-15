@@ -104,7 +104,7 @@ export default function RegForm() {
               </label>
               <input
                 type="text"
-                className="p-2 rounded placeholder-black lg:w-[250px] w-[350px]"
+                className="p-2 rounded placeholder-black lg:w-[250px] w-[310px]"
                 placeholder="First Name "
                 name="firstName"
                 value={patientData.firstName}
@@ -117,7 +117,7 @@ export default function RegForm() {
               </label>
               <input
                 type="text"
-                className="p-2 rounded placeholder-black lg:w-[250px] w-[350px]"
+                className="p-2 rounded placeholder-black lg:w-[250px] w-[310px]"
                 placeholder="Last Name "
                 name="lastName"
                 value={patientData.lastName}
@@ -132,7 +132,7 @@ export default function RegForm() {
 
               <input
                 type="text"
-                className="p-2 rounded placeholder-black lg:w-[250px] w-[350px]"
+                className="p-2 rounded placeholder-black lg:w-[250px] w-[310px]"
                 placeholder="CNIC No "
                 name="cnic"
                 value={patientData.cnic}
@@ -193,7 +193,7 @@ export default function RegForm() {
               <br />
               <input
                 type="text"
-                className="p-2 rounded placeholder-black lg:w-[250px] w-[350px]"
+                className="p-2 rounded placeholder-black lg:w-[250px] w-[310px]"
                 placeholder="Phone/Mobile number "
                 name="phone"
                 value={patientData.phone}
@@ -207,7 +207,7 @@ export default function RegForm() {
               <br />
               <input
                 type="text"
-                className="p-2 rounded placeholder-black lg:w-[250px] w-[350px]"
+                className="p-2 rounded placeholder-black lg:w-[250px] w-[310px]"
                 placeholder="Email Address "
                 name="email"
                 value={patientData.email}
@@ -220,7 +220,7 @@ export default function RegForm() {
               </label>
               <input
                 type="text"
-                className="p-2 rounded placeholder-black lg:w-[250px] w-[350px]"
+                className="p-2 rounded placeholder-black lg:w-[250px] w-[310px]"
                 placeholder="Emergency Number"
                 name="emergencyNo"
                 value={patientData.emergencyNo}
@@ -240,7 +240,7 @@ export default function RegForm() {
               <br />
               <input
                 type="text"
-                className="p-2 rounded placeholder-black lg:w-[250px] w-[350px]"
+                className="p-2 rounded placeholder-black lg:w-[250px] w-[310px]"
                 placeholder="Current Address"
                 name="currentAddress"
                 value={patientData.currentAddress}
@@ -254,7 +254,7 @@ export default function RegForm() {
               <br />
               <input
                 type="text"
-                className="p-2 rounded placeholder-black lg:w-[250px] w-[350px]"
+                className="p-2 rounded placeholder-black lg:w-[250px] w-[310px]"
                 placeholder="Permanent Address "
                 name="permanentAddress"
                 value={patientData.permanentAddress}
@@ -268,7 +268,7 @@ export default function RegForm() {
               <br />
               <input
                 type="number"
-                className="p-2 rounded placeholder-black lg:w-[250px] w-[350px]"
+                className="p-2 rounded placeholder-black lg:w-[250px] w-[310px]"
                 placeholder="+923xxxxxxx"
                 name="mob1"
                 value={patientData.mob1}
@@ -288,7 +288,7 @@ export default function RegForm() {
               <br />
               <input
                 type="number"
-                className="p-2 rounded placeholder-black lg:w-[250px] w-[350px]"
+                className="p-2 rounded placeholder-black lg:w-[250px] w-[310px]"
                 placeholder="+923xxxxxxx"
                 name="mob2"
                 value={patientData.mob2}
